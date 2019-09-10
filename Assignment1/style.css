@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    height: auto;
+    line-height: normal;
+    max-height: none;
+    min-height: 0px;
+    font-size: 1.1em;
+}
+
+body{
+    background-color: #66CDAA; ;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.container{
+    height: 100vh;
+    flex-flow: column wrap;
+    padding-bottom: 10px;
+    margin: 5px;
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: bold;
+    padding-bottom: 50px;
+    padding-top: 10px;
+    color: f54263;
+}
+
+.btn {
+  width: 300px;
+  margin: 0 auto;
+  display: block;
+}
+
+}
