@@ -1,0 +1,52 @@
+
+h1 {
+  margin-bottom: 30px;
+  color: #FF69B4;
+}
+input[type="text"] {
+  width: 200px;
+  float: left;
+}
+.narrow-button {
+  float: left;
+  margin-left: 10px;
+}
+.found-style{
+  display: block;
+  clear: both;
+}
+.dctrl-warning{
+  padding-top: 20px;
+  color: red;
+  font-weight: bold;
+}
+.dctrl-li{
+  padding: 5px;
+}
+.dctrl-li p{
+  margin-top: 10px;
+}
+.dctrl-btn{
+    background-color: #ffff00;
+    border-radius: 5%;
+    border: none;
+    left: 550px;
+    position: absolute;
+}
+.dctrl-btn:hover{
+  background-color: #bfff00;
+}
+.loader {
+  display: none;
+  margin-left: 5px;
+  font-size: 10px;
+  float: left;
+}
+.loader,
+.loader:after {
+  border-radius: 50%;
+  width: 3em;
+  height: 3em;
+}
+
+}
